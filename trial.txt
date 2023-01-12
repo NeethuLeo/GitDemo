@@ -4,4 +4,4 @@ line 2
 
 line 3
 
-Changes done by Branch-A
+Changes done by Branch-A conflicting line
